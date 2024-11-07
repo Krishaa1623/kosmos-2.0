@@ -2,7 +2,7 @@
 
 ## To setup the project on your local machine
 
-Clone the repo
+Clone the repository
 
 Navigate to the folder\
 `cd `
