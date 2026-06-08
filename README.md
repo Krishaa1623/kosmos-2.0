@@ -15,3 +15,5 @@ Run the project\
 
 On any browser open\
 `localhost:2002`
+
+You're Good to go.
